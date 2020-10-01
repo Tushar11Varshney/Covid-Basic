@@ -1,0 +1,8 @@
+nav {
+    display: flex;
+    background-color: black;
+    padding: 4px 0px 10px 23px;
+    font-family: 'Secular One', sans-serif;
+    flex-direction: column;
+    width: 100%;
+}
